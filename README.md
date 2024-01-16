@@ -5,6 +5,7 @@
 -  📫 How to reach me *manathungaosanda@gmail.com*
 
 <div><a href = https://github.com/IT21224652/IT21224652/blob/main/image.png></a></div>
+<p align="left"> <img src="https://github.com/IT21224652/IT21224652/blob/main/image.png" alt="IT21224652"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethman&label=Profile%20views&color=0e75b6&style=flat" alt="geethman" /> </p>
 
