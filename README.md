@@ -4,7 +4,10 @@
 - 👨‍💻 All of my projects are available at https://geethmanimsarani.netlify.app
 -  📫 How to reach me *manathungaosanda@gmail.com*
 
+<div><a href = https://github.com/IT21224652/IT21224652/blob/main/image.png></a></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethman&label=Profile%20views&color=0e75b6&style=flat" alt="geethman" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geethman" alt="geethman" /></a> </p>
 
