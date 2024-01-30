@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osanda Manathunga</h1>
 <h3 align="center">A passionate Data Science Engineer</h3>
 
-- 👨‍💻 All of my projects are available at https://geethmanimsarani.netlify.app
+- 👨‍💻 All of my projects are available at ........
 -  📫 How to reach me *manathungaosanda@gmail.com*
 
 
