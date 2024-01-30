@@ -1,13 +1,12 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">Hi 👋, I'm Osanda Manathunga</h1>
----
 
 <p align="center"> <img src="https://github.com/IT21224652/IT21224652/blob/main/image.png" alt="IT21224652"/> </p>
-<h3 align="center">A passionate Data Science Engineer</h3>
+<h2 align="center">A passionate Data Science Engineer</h2>
 
 - 👨‍💻 All of my projects are available at ........
--  📫 How to reach me *manathungaosanda@gmail.com*
+-  📫 How to reach me **manathungaosanda@gmail.com**
 
 
 ---
