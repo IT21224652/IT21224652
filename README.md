@@ -23,7 +23,7 @@
 
 <h3 align="center">:woman_technologist: Connect with me :</h3>
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/geethmanimsarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/geethmanimsarani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osanda-manathunga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/geethma.abeywickrama.3?mibextid=kfxxjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/geethma.abeywickrama.3?mibextid=kfxxjd" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_geethma.abeywickrama_?igsh=mtqwcnm2mtlta3g4dw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
