@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://github.com/IT21224652/IT21224652/blob/main/image.png" alt="IT21224652"/> </p>
 <h2 align="center">A passionate Data Science Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
-- 👨‍💻 All of my projects are available at ........
+- 👨‍💻 All of my projects are available at **https://osandam.github.io/My_Portfolio/**
 -  📫 How to reach me **manathungaosanda@gmail.com**
 -  [![Linkedin Badge](https://img.shields.io/badge/-Osanda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osanda-manathunga/)
 
